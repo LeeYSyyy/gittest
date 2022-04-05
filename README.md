@@ -32,7 +32,7 @@
 * STM32Cubeide
 * C언어
 
-## 적용된 H/W
+## H/W 
 
 * MCU : STM32L010F4
 * PCB : 
